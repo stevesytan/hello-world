@@ -1,2 +1,2 @@
 # hello-world
-this is my first git hub branch
+hello this is my hub tutorial
